@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Shadcn-UI Template Usage Instructions
 
 ## technology stack
@@ -66,3 +67,6 @@ pnpm run dev
 ```shell
 pnpm run build
 ```
+=======
+# BusBooker
+>>>>>>> d2f49fb8c10fcde269b67b23d7e3d5ed8bce8d58
